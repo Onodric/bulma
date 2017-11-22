@@ -1,5 +1,11 @@
 # Bulma Changelog
 
+## 0.6.2.1
+
+### Improvements
+
+* add LESS support
+
 ## 0.6.2
 
 ### Improvements
